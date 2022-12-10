@@ -15,7 +15,9 @@ This repo is for those who interested in learning Figma to make some infographic
 ## Полезные ссылки:
 
 - **Вебсайт**: - https://www.figma.com/
-- **Учебник**: -https://cyb.ai/ipfs/QmVcuttYSrf5WpVgFgMJe6zKfS3WgQPmsE5aWAh7MzCm9J
+- **Учебник**: - https://cyb.ai/ipfs/QmVcuttYSrf5WpVgFgMJe6zKfS3WgQPmsE5aWAh7MzCm9J
+- **Оригинал образца для домашки легкий**: - https://cyb.ai/ipfs/QmNQFynh7EqgSY3fNqiDp1cDeXEjrik9qE73cpm7xxJbmM
+- **Оригинал образца для домашки сложный**: - https://cyb.ai/ipfs/QmfRgmKeD5aEpoqemaB2mRWV6xqLv4enpy6ZEKJCSvz1kN
 - **Сайт для получения API для инструмента, который удаляет фон (в учебнике всё написано)**: https://www.remove.bg/
 - **Как настроить рабочее пространство в Figma**: https://telegra.ph/Registraciya-i-nastrojka-rabochego-prostranstva-v-Figma-04-06
 - **Гугловские бесплатные шрифты**: https://fonts.google.com/?subset=cyrillic&noto.script=Cyrl
