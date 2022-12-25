@@ -24,3 +24,5 @@ This repo is for those who interested in learning Figma to make some infographic
 - **Cайт для поиска шрифтов по картинке**: https://www.whatfontis.com/
 - **Ресурс-агрегатор картинок, видео, логотипов со стоков**: https://loon.site/
 - **Плагин для поиска шрифтов**: https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh/related
+
+## ✨[Работы студентов](https://github.com/Medniyy/FigmaEducation/blob/main/Graduates%20Portfolio.md)
