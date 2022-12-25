@@ -23,3 +23,4 @@ This repo is for those who interested in learning Figma to make some infographic
 - **Гугловские бесплатные шрифты**: https://fonts.google.com/?subset=cyrillic&noto.script=Cyrl
 - **Cайт для поиска шрифтов по картинке**: https://www.whatfontis.com/
 - **Ресурс-агрегатор картинок, видео, логотипов со стоков**: https://loon.site/
+- **Плагин для поиска шрифтов**: https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh/related
