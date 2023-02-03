@@ -5,7 +5,7 @@
 This repo is for those who interested in learning Figma to make some infographics or other cool stuff!<br/>
 Этот репозиторий предназначен для тех, кого интересует изучение инструмента Figma для создания инфографики и много чего крутого!
 
-# English Version <br/>
+# ▶️[English Version](https://github.com/Medniyy/FigmaEducation/blob/main/Eng.md) <br/>
 
 ## ✍️Figma—инструмент для персональной или коллективной работы с графикой🎨
 
